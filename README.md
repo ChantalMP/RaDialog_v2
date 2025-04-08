@@ -1,6 +1,8 @@
 ## RaDialog-v2
 
-[![](https://img.shields.io/badge/Arxiv-2307.05766-blue)](https://arxiv.org/abs/2311.18681) [![](https://img.shields.io/badge/PhysioNet-Dataset-lightgrey)](https://physionet.org/content/radialog-instruct-dataset/1.1.0/) [![](https://img.shields.io/badge/Huggingface-yellow)](https://huggingface.co/ChantalPellegrini/RaDialog-interactive-radiology-report-generation)
+[![](https://img.shields.io/badge/OpenReview-Paper-blue)](https://openreview.net/pdf?id=trUvr1gSNI) [![](https://img.shields.io/badge/Arxiv-2307.05766-blue)](https://arxiv.org/abs/2311.18681) [![](https://img.shields.io/badge/PhysioNet-Dataset-lightgrey)](https://physionet.org/content/radialog-instruct-dataset/1.1.0/) [![](https://img.shields.io/badge/Huggingface-yellow)](https://huggingface.co/ChantalPellegrini/RaDialog-interactive-radiology-report-generation)
+
+**✨ RaDialog has been accepted to MIDL 2025: The new paper includes additional experiments and details about RaDialog_v2 and can be found on [OpenReview](https://openreview.net/pdf?id=trUvr1gSNI)  ✨**
 
 RaDialog-v2 is the improved version of the original RaDialog model which can be found on [Github](https://github.com/ChantalMP/RaDialog/tree/master) and [Arxiv](https://arxiv.org/abs/2311.18681).
 It follows the same concepts, including the same image encoder, chexbert classifier, prompt construction and language model. However, we introduce a simpler end-to-end image-text alignment, leading to improved conversational assistance and making the model easier use.
