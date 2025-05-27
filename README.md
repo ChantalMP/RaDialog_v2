@@ -131,10 +131,10 @@ For more detailed instructions on how to train and evaluate RaDialog, please ref
 When using our model (original and this version) or dataset, please cite:
 
 ```
-@article{pellegrini2023radialog,
-  title={RaDialog: A Large Vision-Language Model for Radiology Report Generation and Conversational Assistance},
-  author={Pellegrini, Chantal and {\"O}zsoy, Ege and Busam, Benjamin and Navab, Nassir and Keicher, Matthias},
-  journal={arXiv preprint arXiv:2311.18681},
-  year={2023}
+@inproceedings{pellegrini2025radialog,
+  title={RaDialog: Large Vision-Language Models for X-Ray Reporting and Dialog-Driven Assistance},
+  author={Pellegrini, Chantal and {\"O}zsoy, Ege and Busam, Benjamin and Wiestler, Benedikt and Navab, Nassir and Keicher, Matthias},
+  booktitle={Medical Imaging with Deep Learning},
+  year={2025}
 }
 ```
